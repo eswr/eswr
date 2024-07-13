@@ -15,3 +15,9 @@ TODO
 - 🤔  I’m looking for work, preferably remote with interesting projects
 - ⚡ I recently built a SaaS template on Next (Vercel) and Node.js (Render) and moved the deployment to ion.sst (AWS) and Coolify. Currently working on integrating AI and other upgrades
 - 📫 How to reach me: TODO
+
+---
+### 🧰 Todo 
+
+- [ ] study [front-end-handbook](https://frontendmasters.com/guides/front-end-handbook/2024)
+- [ ] create a [benji](https://benji.so) from [thekitze](https://x.com/thekitze)
