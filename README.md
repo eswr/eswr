@@ -9,7 +9,7 @@ TODO
 
 ---
 - 🔭 I’m currently working on a speech-based interactive AI
-- 🌱 I’m currently learning Zig, Rust concepts, and bare-metal DevOps (k9s, nix-shell, helm charts)
+- 🌱 I’m currently learning Zig, Rust, and bare-metal DevOps (k9s, nix-shell, helm charts)
 - 💡 I’m looking forward to learning Tailwind 4, Solid-Start 1.0, Next 15, Pavex, JetZig and applying them to a backlog of ideas
 - 💬 Ask me about frontend (e.g., SSR vs local-first, WebSocket vs QUIC, PWA vs React Native), integrations (e.g., SMS notifications vs Google Calendar/Slack, CRMs), and of course, code (React, Next, Redis, Kafka)
 - 🤔  I’m looking for work, preferably remote with interesting projects
